@@ -2,7 +2,7 @@
 
 ### About me
 🔎I'm interested in Data science and new ICT areas<br>
-🌱I’m currently learning Python
+
 
 💪I will always do my best!
 
